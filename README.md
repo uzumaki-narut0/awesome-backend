@@ -1,4 +1,4 @@
-awesome-backend
+:rocket: Awesome Backend
 ---------------------------------
 
 ## Advanced Data Structures
