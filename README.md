@@ -17,3 +17,4 @@
 * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E&list=PLhPk4sKQ3RPcoohrLEVnMPDMZ227DUWq)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [SSE vs WebSockets vs Long Polling. Martin Chaov. JS Fest 2018](https://www.youtube.com/watch?v=n9mRjkQg3VE)
+* [Block Storage vs. File Storage](https://www.youtube.com/watch?v=5EqAXnNm0FE&feature=emb_logo)
