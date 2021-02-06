@@ -11,7 +11,9 @@
 ## Blogs
 
 * [Inside the Magic pocket](https://dropbox.tech/infrastructure/inside-the-magic-pocket)
+* [Amazon's Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
+* [Consistent Hashing](https://blog.carlosgaldino.com/consistent-hashing.html)
 
 ## Videos
 * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E&list=PLhPk4sKQ3RPcoohrLEVnMPDMZ227DUWq)
