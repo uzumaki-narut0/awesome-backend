@@ -14,6 +14,9 @@
 * [Amazon's Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
 * [Consistent Hashing](https://blog.carlosgaldino.com/consistent-hashing.html)
+* [The Stack That Helped Medium Scale To 2.6 Millennia Of Reading Time](https://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time)
+* [Stream & Go: News Feeds for Over 300 Million End Users](https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users)
+
 
 ## Videos
 * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E&list=PLhPk4sKQ3RPcoohrLEVnMPDMZ227DUWq)
