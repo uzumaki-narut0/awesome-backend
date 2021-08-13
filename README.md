@@ -16,6 +16,7 @@
 * [Consistent Hashing](https://blog.carlosgaldino.com/consistent-hashing.html)
 * [The Stack That Helped Medium Scale To 2.6 Millennia Of Reading Time](https://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time)
 * [Stream & Go: News Feeds for Over 300 Million End Users](https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users)
+* [Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
 
 
 ## Videos
